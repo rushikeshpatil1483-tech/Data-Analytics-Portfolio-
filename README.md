@@ -34,5 +34,7 @@ Hello, I am Rushikesh Patil, a BCA graduate and aspiring Data Analyst. I am lear
 - SQL
 
 ## Contact
-Email: your_email_here
-LinkedIn: your_linkedin_here
+Email: rushikeshpatil1483@gmail.com
+LinkedIn: https://www.linkedin.com/in/rushikesh-patil-35b98a364
+
+
